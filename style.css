@@ -15,24 +15,24 @@ body, html {
 }
 
 .app-icon {
-    width: 250px;
-    height: 250px;
-    margin-bottom: 20px;
+    width: 450px;
+    height: 450px;
+    margin-bottom: 50px;
 }
 
 .download-button {
     display: block;
-    width: 300px;
-    margin: 20px auto;
+    width: 350px;
+    margin: 40px auto;
     padding: 20px;
-    border-radius: 30px; /* Coins plus arrondis */
+    border-radius: 40px; /* Coins plus arrondis */
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     background-color: #723ECB;
     text-align: center;
     transition: background-color 0.3s;
-    border: 3px solid white; /* Contour blanc autour des boutons */
+    border: 5px solid white; /* Contour blanc autour des boutons */
 }
 
 .download-button:hover {
