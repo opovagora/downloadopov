@@ -15,15 +15,15 @@ body, html {
 }
 
 .app-icon {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     margin-bottom: 20px;
 }
 
 .download-button {
     display: block;
     width: 300px;
-    margin: 10px auto;
+    margin: 20px auto;
     padding: 20px;
     border-radius: 30px; /* Coins plus arrondis */
     text-decoration: none;
@@ -32,7 +32,7 @@ body, html {
     background-color: #723ECB;
     text-align: center;
     transition: background-color 0.3s;
-    border: 2px solid white; /* Contour blanc autour des boutons */
+    border: 3px solid white; /* Contour blanc autour des boutons */
 }
 
 .download-button:hover {
